@@ -1,2 +1,2 @@
-# Thul-mon
+# Thulémon
 Tabletop Card Game
