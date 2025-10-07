@@ -1,2 +1,2 @@
 # Thulémon
-Tabletop Card Game
+Addendum to ReconQuest: Fantasy Role-playing Game.
