@@ -1,2 +1,2 @@
 # Thulémon
-Addendum to ReconQuest: Fantasy Role-playing Game.
+Addition to ReconQuest: Fantasy Role-playing Game.
