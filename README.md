@@ -2,6 +2,6 @@
 
 Addition to ReconQuest: Fantasy Role-playing Game.
 
-## GO 
+## GO/Now 
 
-Merge Pokémon GO and Monster Hunter Now.
+Spawn system, for urban sectors, out of nature tracts.
